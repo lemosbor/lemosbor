@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Ilya 👋
+[![Linkedin Badge](https://img.shields.io/badge/-lemos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lemos/)](https://www.linkedin.com/in/lemos/)
+[![Telegram Badge](https://img.shields.io/badge/-lemosbor-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/lemosbor)](https://t.me/lemosbor)
 
-<!--
-**lemosbor/lemosbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧐 Learning C++ and a bit of ML.
+- 🛠 Designed: [![Github Badge](https://img.shields.io/badge/-lapa-black?style=flat&logo=github&logoColor=white&link=github.com/lemosbor/lapa)](github.com/lemosbor/lapa)
+- 🧡 My passions:
+  - Technology and software
+  - Science
+  - Cycling
+  - Nature
